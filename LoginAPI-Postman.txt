@@ -1,0 +1,77 @@
+
+{
+    "status": "success",
+    "data": {
+        "userId": "v7XfsfhJoESd3Mezs",
+        "authToken": "QhPWD7ZM16ApNJL95cdObeh23-rpzFivNQAl9hkWRtt",
+        "me": {
+            "_id": "v7XfsfhJoESd3Mezs",
+            "services": {
+                "password": {
+                    "bcrypt": "$2b$10$trvw0Md6dPXYNtT9jrKUSeaAWE6.lQbulK5./rqvvmbk2rl0FS51i"
+                },
+                "email2fa": {
+                    "enabled": true
+                }
+            },
+            "emails": [
+                {
+                    "address": "allanmelo@yahoo.com.br",
+                    "verified": false
+                }
+            ],
+            "roles": [
+                "user",
+                "admin",
+                "bot"
+            ],
+            "status": "away",
+            "active": true,
+            "_updatedAt": "2024-01-13T22:37:29.502Z",
+            "name": "Allan Moreira",
+            "statusConnection": "away",
+            "username": "almo93",
+            "utcOffset": -3,
+            "settings": {
+                "profile": {},
+                "preferences": {
+                    "enableAutoAway": true,
+                    "idleTimeLimit": 300,
+                    "desktopNotificationRequireInteraction": false,
+                    "desktopNotifications": "all",
+                    "pushNotifications": "all",
+                    "unreadAlert": true,
+                    "useEmojis": true,
+                    "convertAsciiEmoji": true,
+                    "autoImageLoad": true,
+                    "saveMobileBandwidth": true,
+                    "collapseMediaByDefault": false,
+                    "hideUsernames": false,
+                    "hideRoles": false,
+                    "hideFlexTab": false,
+                    "displayAvatars": true,
+                    "sidebarGroupByType": true,
+                    "themeAppearence": "auto",
+                    "sidebarViewMode": "medium",
+                    "sidebarDisplayAvatar": true,
+                    "sidebarShowUnread": false,
+                    "sidebarSortby": "activity",
+                    "showThreadsInMainChannel": false,
+                    "alsoSendThreadToChannel": "default",
+                    "sidebarShowFavorites": true,
+                    "sendOnEnter": "normal",
+                    "emailNotificationMode": "mentions",
+                    "newRoomNotification": "door",
+                    "newMessageNotification": "chime",
+                    "muteFocusedConversations": true,
+                    "notificationsSoundVolume": 100,
+                    "omnichannelTranscriptEmail": false,
+                    "notifyCalendarEvents": true,
+                    "enableMobileRinging": true,
+                    "omnichannelTranscriptPDF": false
+                }
+            },
+            "avatarUrl": "http://localhost:3000/avatar/almo93"
+        }
+    }
+}
